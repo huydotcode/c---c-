@@ -1,0 +1,3 @@
+W:/c/Thuc_hanh/Tu_dien/cmake-build-debug/CMakeFiles/Tu_dien.dir
+W:/c/Thuc_hanh/Tu_dien/cmake-build-debug/CMakeFiles/edit_cache.dir
+W:/c/Thuc_hanh/Tu_dien/cmake-build-debug/CMakeFiles/rebuild_cache.dir

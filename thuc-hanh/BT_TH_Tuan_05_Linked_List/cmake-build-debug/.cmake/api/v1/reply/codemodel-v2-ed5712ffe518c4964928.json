@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "BT_TH_Tuan_05_Linked_List",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BT_TH_Tuan_05_Linked_List::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BT_TH_Tuan_05_Linked_List-Debug-0b13d5589df7578ced47.json",
+					"name" : "BT_TH_Tuan_05_Linked_List",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "W:/c, c++/Thuc_hanh/BT_TH_Tuan_05_Linked_List/cmake-build-debug",
+		"source" : "W:/c, c++/Thuc_hanh/BT_TH_Tuan_05_Linked_List"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

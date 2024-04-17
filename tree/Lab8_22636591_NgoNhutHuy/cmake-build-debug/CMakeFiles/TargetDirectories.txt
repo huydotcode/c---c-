@@ -1,0 +1,3 @@
+W:/C Language/Tree/Lab8_22636591_NgoNhutHuy/cmake-build-debug/CMakeFiles/Lab8_22636591_NgoNhutHuy.dir
+W:/C Language/Tree/Lab8_22636591_NgoNhutHuy/cmake-build-debug/CMakeFiles/edit_cache.dir
+W:/C Language/Tree/Lab8_22636591_NgoNhutHuy/cmake-build-debug/CMakeFiles/rebuild_cache.dir

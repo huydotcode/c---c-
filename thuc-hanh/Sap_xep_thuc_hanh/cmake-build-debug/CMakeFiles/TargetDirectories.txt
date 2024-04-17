@@ -1,0 +1,3 @@
+W:/c/Thuc_hanh/Sap_xep_thuc_hanh/cmake-build-debug/CMakeFiles/Sap_xep_thuc_hanh.dir
+W:/c/Thuc_hanh/Sap_xep_thuc_hanh/cmake-build-debug/CMakeFiles/edit_cache.dir
+W:/c/Thuc_hanh/Sap_xep_thuc_hanh/cmake-build-debug/CMakeFiles/rebuild_cache.dir

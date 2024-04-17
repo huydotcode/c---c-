@@ -1,0 +1,3 @@
+W:/c, c++/Bai_tap_tren_lop/Ds_Lk_doi/cmake-build-debug/CMakeFiles/Ds_Lk_doi.dir
+W:/c, c++/Bai_tap_tren_lop/Ds_Lk_doi/cmake-build-debug/CMakeFiles/edit_cache.dir
+W:/c, c++/Bai_tap_tren_lop/Ds_Lk_doi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

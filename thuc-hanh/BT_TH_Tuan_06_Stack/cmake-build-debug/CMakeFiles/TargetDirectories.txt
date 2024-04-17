@@ -1,0 +1,3 @@
+W:/c, c++/Thuc_hanh/BT_TH_Tuan_06_Stack/cmake-build-debug/CMakeFiles/BT_TH_Tuan_06_Stack.dir
+W:/c, c++/Thuc_hanh/BT_TH_Tuan_06_Stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+W:/c, c++/Thuc_hanh/BT_TH_Tuan_06_Stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir

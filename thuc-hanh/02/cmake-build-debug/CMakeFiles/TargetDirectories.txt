@@ -1,0 +1,3 @@
+W:/c, c++/Thuc_hanh/02/cmake-build-debug/CMakeFiles/02.dir
+W:/c, c++/Thuc_hanh/02/cmake-build-debug/CMakeFiles/edit_cache.dir
+W:/c, c++/Thuc_hanh/02/cmake-build-debug/CMakeFiles/rebuild_cache.dir

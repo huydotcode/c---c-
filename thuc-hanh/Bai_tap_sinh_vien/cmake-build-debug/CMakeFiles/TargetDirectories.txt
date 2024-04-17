@@ -1,0 +1,3 @@
+W:/C Language/Thuc_hanh/Bai_tap_sinh_vien/cmake-build-debug/CMakeFiles/01.dir
+W:/C Language/Thuc_hanh/Bai_tap_sinh_vien/cmake-build-debug/CMakeFiles/edit_cache.dir
+W:/C Language/Thuc_hanh/Bai_tap_sinh_vien/cmake-build-debug/CMakeFiles/rebuild_cache.dir

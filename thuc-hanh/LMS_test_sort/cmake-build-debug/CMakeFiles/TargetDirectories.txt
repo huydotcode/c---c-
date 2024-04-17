@@ -1,0 +1,3 @@
+W:/c/Thuc_hanh/LMS_test_sort/cmake-build-debug/CMakeFiles/LMS_test_sort.dir
+W:/c/Thuc_hanh/LMS_test_sort/cmake-build-debug/CMakeFiles/edit_cache.dir
+W:/c/Thuc_hanh/LMS_test_sort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
